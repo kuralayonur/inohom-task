@@ -1,0 +1,60 @@
+{
+  "data":[
+    {
+      "id" : 71498,
+      "title" : "1",
+      "type" : 1,
+      "onSwitch": true,
+      "area":1
+    },
+    {
+      "id" : 22143,
+      "title" : "kombi",
+      "type" : 3,
+      "temprature": 25,
+      "area":1
+    },
+    {
+      "id" : 25144,
+      "title" : "ampul 1",
+      "type" : 1,
+      "onSwitch": true,
+      "area":2
+    },
+    {
+      "id" : 47483,
+      "title" : "panel kombi",
+      "type" : 3,
+      "temprature": 17,
+      "area":2
+    },
+    {
+      "id" : 22511,
+      "title" : "vana 1",
+      "type" : 2,
+      "onSwitch": false,
+      "area":2
+    },
+    {
+      "id" : 22512,
+      "title" : "vana 3",
+      "type" : 2,
+      "onSwitch": false,
+      "area":1
+    },
+    {
+      "id" : 22513,
+      "title" : "vana 5",
+      "type" : 2,
+      "onSwitch": false,
+      "area":5
+    },
+    {
+      "id" : 22514,
+      "title" : "vana 2",
+      "type" : 2,
+      "onSwitch": false,
+      "area":5
+    }
+  ]
+}
